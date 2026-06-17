@@ -1,0 +1,59 @@
+{
+  "habits": [
+    "Late sleeper",
+    "Early riser",
+    "Exercises regularly",
+    "Likes cooking",
+    "Enjoys reading",
+    "Gamer",
+    "Coffee drinker",
+    "Tea drinker",
+    "Practices meditation",
+    "Smoker",
+    "Drinks alcohol",
+    "Vegetarian/Vegan",
+    "Watches TV/movies",
+    "Music lover",
+    "Likes traveling",
+    "Enjoys shopping"
+  ],
+  "personal_facts": [
+    "Education/Career: international law and I am really interested",
+    "Education/Career: business administration",
+    "Location connection: Georgia",
+    "Life event: I just moved to Celebration, Florida from the Midwest",
+    "Life event: That's wonderful news",
+    "Relationship: my husband",
+    "Life event: Hey I'm in a band and my dog's name is Wonwon",
+    "Life event: I lost my job as a nurse after I was diagnosed with cancer, but I'm doing much better now",
+    "Life event: I just won an olympic medal",
+    "Life event: I got really sick and had to have my appendix removed",
+    "Life event: I just moved to Sweden and I love it here",
+    "Location connection: Alabama",
+    "Life event: Doing well, just moved into my new house",
+    "Life event: I'm new to the area, just moved here last week",
+    "Life event: I just moved from VA to PA, so I am a little bit nervous but excited to start this new chapter in my life",
+    "Life event: I just moved to a new town for my dad's job transfer",
+    "Life event: That's a wonderful hobby",
+    "Location connection: Texas and I love living here",
+    "Education/Career: radiology",
+    "Life event: I hope you had a wonderful night"
+  ],
+  "personality_traits": [
+    "Optimistic / positive",
+    "Generally upbeat",
+    "Enthusiastic"
+  ],
+  "communication_style": {
+    "average_message_length_words": 11.1,
+    "emoji_usage_per_100_msgs": 0.0,
+    "slang_usage_per_100_msgs": 0.4,
+    "questions_per_100_msgs": 27.0,
+    "positive_words_per_100_msgs": 52.7,
+    "descriptions": [
+      "Moderate message length",
+      "Occasional emoji use",
+      "Very positive tone"
+    ]
+  }
+}
